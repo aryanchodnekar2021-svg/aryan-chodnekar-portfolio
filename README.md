@@ -12,10 +12,8 @@ Welcome to the repository for my personal portfolio website. This project showca
 The site is built with a focus on modern, interactive UI design, featuring a "Cyber/Dark" aesthetic with 3D elements and smooth animations.
 
 ## 🚀 Live Demo
-**[Click here to view the Portfolio](https://your-username.github.io/repo-name)**
-*(Note: Don't forget to enable GitHub Pages in your settings!)*
+**[Click here to view the Portfolio]( https://aryanchodnekar2021-svg.github.io/aryan-chodnekar-portfolio/)**
 
----
 
 ## ✨ Key Features
 
